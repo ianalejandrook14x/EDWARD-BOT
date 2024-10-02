@@ -82,4 +82,4 @@ async function start(files) {
   }
 }
 
-start(['EdwardBot.js'])
+start(['Edward.js'])
