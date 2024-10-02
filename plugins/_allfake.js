@@ -7,9 +7,9 @@ let img = catalogo
     contextInfo: {
     	isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: "120363314192605628@newsletter",
+      newsletterJid: "120363318758721861@newsletter",
       serverMessageId: 100,
-      newsletterName: 'Son - Goku Channel 🌀',
+      newsletterName: 'Tҽαɱ Cԋαɳɳҽʅ Fυƚαɾσ',
     },
 	    externalAdReply: {
 				    showAdAttribution: true,
@@ -18,7 +18,7 @@ let img = catalogo
 					mediaUrl: null,
 					description: null,
 					previewType: "PHOTO",
-					thumbnailUrl: 'https://telegra.ph/file/8813c9636643198e783fd.jpg',
+					thumbnailUrl: 'https://qu.ax/yFhw.jpg',
 		           sourceUrl: canal,
 		           mediaType: 1,
                    renderLargerThumbnail: false
